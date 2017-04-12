@@ -99,4 +99,8 @@ Whatever a person will perform on leap motion sensor, the robotic hand will repl
   * Rama Kumar
 
   * Aditya Panwar
+  
+  
+  
+developed in vacation of 2nd year 
 
